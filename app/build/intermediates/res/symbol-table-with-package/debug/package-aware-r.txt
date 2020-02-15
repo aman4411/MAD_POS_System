@@ -1043,6 +1043,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_chat_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
@@ -1134,6 +1135,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnSend
 id button0
 id button1
 id button10
@@ -1203,6 +1205,7 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id fstTxt
 id ghost_view
 id gone
 id group_divider
@@ -1230,9 +1233,11 @@ id line3
 id listMode
 id list_item
 id masked
+id mblTxt
 id message
 id middle
 id mini
+id msgTxt
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
@@ -1283,6 +1288,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secTxt
 id select_dialog_listview
 id selected
 id shortcut

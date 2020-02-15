@@ -1,4 +1,5 @@
 package com.example.madpossystem;
+import android.net.Uri;
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.PendingIntent;
@@ -13,39 +14,33 @@ import android.widget.Toast;
 
 public class sms extends Activity {
 
-    EditText mobileno,message;
-    Button sendsms;
+    private EditText txtMobile;
+    private EditText txtMessage;
+    private Button btnSms;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sms);
-
-        mobileno=(EditText)findViewById(R.id.editText1);
-        message=(EditText)findViewById(R.id.editText2);
-        sendsms=(Button)findViewById(R.id.button1);
-
-        //Performing action on button click
-        sendsms.setOnClickListener(new OnClickListener() {
-
+        txtMobile = (EditText) findViewById(R.id.mblTxt);
+        txtMessage = (EditText) findViewById(R.id.msgTxt);
+        btnSms = (Button) findViewById(R.id.btnSend);
+        btnSms.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View arg0) {
-                String no=mobileno.getText().toString();
-                String msg=message.getText().toString();
-
-                //Getting intent and PendingIntent instance
-                Intent intent=new Intent(getApplicationContext(),MainActivity.class);
-                PendingIntent pi=PendingIntent.getActivity(getApplicationContext(), 0, intent,0);
-
-                //Get the SmsManager instance and call the sendTextMessage method to send message
-                SmsManager sms=SmsManager.getDefault();
-                sms.sendTextMessage(no, null, msg, pi,null);
-
-                Toast.makeText(getApplicationContext(), "Message Sent successfully!",
-                        Toast.LENGTH_LONG).show();
+            public void onClick(View v) {
+                try {
+                    Intent i = new Intent(Intent.ACTION_VIEW);
+                    i.setData(Uri.parse("smsto:"));
+                    i.setType("vnd.android-dir/mms-sms");
+                    i.putExtra("address", new String(txtMobile.getText().toString()));
+                    i.putExtra("sms_body", txtMessage.getText().toString());
+                    startActivity(Intent.createChooser(i, "Send sms via:"));
+                } catch (Exception e) {
+                    Toast.makeText(sms.this, "SMS Failed to Send, Please try again", Toast.LENGTH_SHORT).show();
+                }
             }
         });
+
+
     }
-
-
-
 }

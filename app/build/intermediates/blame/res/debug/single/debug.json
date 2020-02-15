@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
-        "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
-    },
-    {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -268,12 +268,12 @@
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -608,6 +608,10 @@
         "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\src\\main\\res\\layout\\activity_sms.xml"
     },
     {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chat_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -626,6 +630,10 @@
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chat_black_24dp.xml.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chat_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
@@ -674,6 +682,10 @@
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chat_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -928,6 +940,10 @@
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\ddf6a25e6e3e5e2af441269b48288beb\\appcompat-resources-1.1.0\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chat_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\c7eb9cd3508ac3959447c14fd76c9fb9\\material-1.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
@@ -994,6 +1010,10 @@
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chat_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
@@ -1732,6 +1752,10 @@
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chat_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\c7eb9cd3508ac3959447c14fd76c9fb9\\material-1.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
@@ -1930,6 +1954,10 @@
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\Mr. Sharma\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chat_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Mr. Sharma\\AndroidStudioProjects\\shilpa\\MADPOSSystem2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
