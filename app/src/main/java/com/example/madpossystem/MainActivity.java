@@ -11,7 +11,7 @@ import android.widget.RadioButton;
 
 
 public class MainActivity extends AppCompatActivity {
-    private Button button1;
+    private Button button1;  
     private Button button2;
     private Button button5;
     private Button button3;
